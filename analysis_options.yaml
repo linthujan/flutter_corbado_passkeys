@@ -1,0 +1,12 @@
+analyzer:
+  errors:
+    unused_import: ignore
+    depend_on_referenced_packages: ignore
+    avoid_dynamic_calls: ignore
+    avoid_print: ignore ignore
+    lines_longer_than_80_chars: ignore
+    avoid_redundant_argument_values: ignore
+include: package:very_good_analysis/analysis_options.5.0.0.yaml
+linter:
+  rules:
+    public_member_api_docs: false
