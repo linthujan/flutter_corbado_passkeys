@@ -44,21 +44,21 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAIqsaw2ygDtTHAn2T_zNnnn0N4qpPmNjc',
-    appId: '1:192573976334:web:e3448507be04187a0ef15f',
+    apiKey: 'AIzaSyD9wLL41MmaoqmIs0EoUtngDhPSS_EHc7k',
+    appId: '1:192573976334:web:29b16aaabd781ea90ef15f',
     messagingSenderId: '192573976334',
     projectId: 'flutterfirebasepushmessage',
     authDomain: 'flutterfirebasepushmessage.firebaseapp.com',
-    storageBucket: 'flutterfirebasepushmessage.appspot.com',
-    measurementId: 'G-1CQ7PS1FKG',
+    storageBucket: 'flutterfirebasepushmessage.firebasestorage.app',
+    measurementId: 'G-EF06GJ04S5',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBlgRQe2RWv0DOwI9_257LbhYHAanXIzic',
-    appId: '1:40280212308:android:15a8bef28b906cad373ec1',
-    messagingSenderId: '40280212308',
-    projectId: 'kumele-3feaf',
-    storageBucket: 'kumele-3feaf.appspot.com',
+    apiKey: 'AIzaSyCRR5OIsNay4aEqw--tRb1qKSvl1I93nZI',
+    appId: '1:192573976334:android:0c708c60cbf934480ef15f',
+    messagingSenderId: '192573976334',
+    projectId: 'flutterfirebasepushmessage',
+    storageBucket: 'flutterfirebasepushmessage.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
